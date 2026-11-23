@@ -1,4 +1,4 @@
-# Omini-Retail-Sales-Analysis-2025
+# Omni-Retail-Sales-Analysis-2025
 
 ## Project Overview
 
