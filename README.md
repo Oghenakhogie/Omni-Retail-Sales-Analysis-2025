@@ -139,8 +139,6 @@ The project demonstrates how business intelligence can help retail organisations
 - Identify periods of growth and declining performance.
 - Support more informed marketing, inventory and resource allocation decisions.
 
-## Limitations and Further Improvements
-
 ## Conclusion
 
 This project demonstrates the application of data analytics and business intelligence to retail sales performance management.
