@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analysing the 2025 sales performance of **OmniRetail Africa Ltd.** using Microsoft Excel and Microsoft Power BI.
+This project focuses on analysing the 2025 sales performance of **OmniRetail Africa Ltd.** a fictional company, using Microsoft Excel and Microsoft Power BI.
 
 The objective was to transform sales data into an interactive business intelligence dashboard that provides management with a clear understanding of the company's performance across different months, quarters, product categories, countries, branches and customer generations.
 
